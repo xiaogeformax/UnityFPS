@@ -1,0 +1,15 @@
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\UnityEngine.xml
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\UnityEditor.xml
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+E:\customCode\Unity3d\Demo\FPS\obj\Debug\UnityVS.FPS.CSharp.csprojResolveAssemblyReference.cache
+E:\customCode\Unity3d\Demo\FPS\obj\Debug\Assembly-CSharp.dll
+E:\customCode\Unity3d\Demo\FPS\obj\Debug\Assembly-CSharp.pdb
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\UnityEditor.dll
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\UnityEngine.dll
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\protobuf-net.dll
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\UnityNetwork.dll
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\protobuf-net.pdb
+E:\customCode\Unity3d\Demo\FPS\Temp\UnityVS_bin\Debug\protobuf-net.xml

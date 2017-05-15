@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Anim>
+ <Data id="1" name="T-pose" startFrame="0f" endFrame="1f" />
+ <Data id="2" name="Attack" startFrame="6f" endFrame="66f" />
+ <Data id="3" name="Attack1" startFrame="71f" endFrame="140f" />
+ <Data id="4" name="GrabBite" startFrame="145f" endFrame="180f" />
+ <Data id="5" name="GrabBite1" startFrame="185f" endFrame="221f" />
+ <Data id="6" name="GrabBite2" startFrame="226f" endFrame="266f" />
+ <Data id="7" name="Attack2" startFrame="271f" endFrame="311f" />
+ <Data id="8" name="Walk" startFrame="316f" endFrame="616f" />
+ <Data id="9" name="Walk1" startFrame="621f" endFrame="920f" />
+ <Data id="10" name="DodgeBack" startFrame="925f" endFrame="933f" />
+ <Data id="11" name="DodgeFront" startFrame="938f" endFrame="946f" />
+ <Data id="12" name="DodgeLeft" startFrame="951f" endFrame="959f" />
+ <Data id="13" name="DodgeRight" startFrame="964f" endFrame="972f" />
+ <Data id="14" name="LoseHead" startFrame="977f" endFrame="1057f" />
+ <Data id="15" name="HitFront" startFrame="1062f" endFrame="1102f" />
+ <Data id="16" name="HitLeft" startFrame="1107f" endFrame="1147f" />
+ <Data id="17" name="HitRight" startFrame="1152f" endFrame="1192f" />
+ <Data id="18" name="HitReactionB" startFrame="1197f" endFrame="1217f" />
+ <Data id="19" name="HitReactionF" startFrame="1222f" endFrame="1242f" />
+ <Data id="20" name="HitReactionLeft" startFrame="1247f" endFrame="1267f" />
+ <Data id="21" name="HitReactionRight" startFrame="1272f" endFrame="1292f" />
+ <Data id="22" name="Idle_Headless" startFrame="1297f" endFrame="1597f" />
+ <Data id="23" name="Idle" startFrame="1602f" endFrame="1902f" />
+ <Data id="24" name="InAir" startFrame="1907f" endFrame="1916f" />
+ <Data id="25" name="Jump" startFrame="1921f" endFrame="1934f" />
+ <Data id="26" name="JumpAttack" startFrame="1939f" endFrame="1984f" />
+ <Data id="27" name="KnockDownGetAngry" startFrame="1989f" endFrame="2068f" />
+ <Data id="28" name="Land" startFrame="2073f" endFrame="2079f" />
+ <Data id="29" name="RunStrafeLeft" startFrame="2084f" endFrame="2384f" />
+ <Data id="30" name="RunStrafeRight" startFrame="2389f" endFrame="2689f" />
+ <Data id="31" name="TurnLeft" startFrame="2694f" endFrame="2714f" />
+ <Data id="32" name="TurnRight" startFrame="2719f" endFrame="2739f" />
+ <Data id="33" name="WalkBackHeadless" startFrame="2744f" endFrame="3043f" />
+ <Data id="34" name="WalkFowardHeadless" startFrame="3048f" endFrame="3317f" />
+ <Data id="35" name="WalkLeftHeadless" startFrame="3322f" endFrame="3591f" />
+ <Data id="36" name="WalkRightHeadless" startFrame="3596f" endFrame="3865f" />
+ <Data id="37" name="HitStrongFall" startFrame="3870f" endFrame="3915f" />
+ <Data id="38" name="GetUp" startFrame="3920f" endFrame="4015f" />
+ <Data id="39" name="Feed" startFrame="4020f" endFrame="4180f" />
+</Anim>

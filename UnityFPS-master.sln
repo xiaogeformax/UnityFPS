@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityFPS-master.Plugins", "UnityFPS-master.Plugins.csproj", "{655216B7-192F-EAAF-CB03-D3F92108A828}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityFPS-master", "UnityFPS-master.csproj", "{FB952629-E6FB-64BB-DB54-22BA5E440F12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityFPS-master.Editor", "UnityFPS-master.Editor.csproj", "{4B0FE16F-54BC-ACA5-67DF-622FFC85999D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{655216B7-192F-EAAF-CB03-D3F92108A828}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{655216B7-192F-EAAF-CB03-D3F92108A828}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{655216B7-192F-EAAF-CB03-D3F92108A828}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{655216B7-192F-EAAF-CB03-D3F92108A828}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB952629-E6FB-64BB-DB54-22BA5E440F12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB952629-E6FB-64BB-DB54-22BA5E440F12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB952629-E6FB-64BB-DB54-22BA5E440F12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB952629-E6FB-64BB-DB54-22BA5E440F12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B0FE16F-54BC-ACA5-67DF-622FFC85999D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B0FE16F-54BC-ACA5-67DF-622FFC85999D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B0FE16F-54BC-ACA5-67DF-622FFC85999D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B0FE16F-54BC-ACA5-67DF-622FFC85999D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
